@@ -1,4 +1,3 @@
 # Olá, Mundo!
 
- Primeiro repositório alterado git e github
- Primeiro repositório alterado
+ Primeiro repositório git e github
