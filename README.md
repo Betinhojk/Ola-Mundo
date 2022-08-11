@@ -1,3 +1,3 @@
 # Olá, Mundo!
 
- Primeiro repositório git e github
+ Primeiro repositorio git e github
